@@ -6,6 +6,7 @@ EGG_TRAY = 'eggtray'
 GARAGE_DOOR = 'garage_door'
 POWER_STRIP = 'powerstrip'
 SIREN = 'siren'
+THERMOSTAT = 'thermostat'
 
 DEVICE_ID_KEYS = {
     BINARY_SWITCH: 'binary_switch_id',
@@ -16,4 +17,5 @@ DEVICE_ID_KEYS = {
     POWER_STRIP: 'powerstrip_id',
     SENSOR_POD: 'sensor_pod_id',
     SIREN: 'siren_id'
+    THERMOSTAT: 'thermostat_id'
 }
